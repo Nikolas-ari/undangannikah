@@ -1,8 +1,5 @@
 # Dependencies
 node_modules/
-
-# Large media files (audio/video - use cloud storage instead)
-public/assets/audio/
 .pnp
 .pnp.js
 
